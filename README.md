@@ -11,8 +11,6 @@ Currently, I'm leveraging my strong Frontend background to specialize in **Backe
 - 🎓 **Education:** Graduated in **Analysis and Systems Development**.
 - 🔭 **Currently working on:** Architecting scalable APIs using **NestJS** and building modern interfaces with **Astro** & **Next.js**.
 - 📚 **Active Studies:** I am deeply invested in **Golang** courses and projects to transition into high-concurrency backend roles in the near future.
-- ⚙️ **Homelab & DevOps:** Managing containerized applications with **Docker** and **Podman**
-- 💼 **Freelance:** Developing features for an educational platform (LMS) focused on performance and user experience.
 
 ---
 
@@ -41,8 +39,3 @@ Currently, I'm leveraging my strong Frontend background to specialize in **Backe
 
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorsilvadev)
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickttor&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=vickttor&icon=0&color=0)](https://visitcount.itsvg.in)
