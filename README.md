@@ -17,14 +17,14 @@ While I have a strong background in Frontend engineering (React & Next.js), my c
 
 ### 🛠 Tech Stack & Environment
 
-**Backend & Infrastructure:**
+- **Backend & Infrastructure:**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Frontend & Ecosystem:**
+- **Frontend & Ecosystem:**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Expanding Horizons:**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) *(Active Learning & Prototyping)*
+- **Expanding Horizons:** *(Active Learning & Prototyping)*
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **My Workspace:** 
 I'm a terminal and editor enthusiast. My daily workflow runs on a MacBook Air M4 and Linux (Fedora), heavily utilizing **Fish shell**, **Helix**, **iTerm2**, and **Zed Editor**. 
